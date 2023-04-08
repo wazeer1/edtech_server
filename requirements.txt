@@ -1,0 +1,17 @@
+
+cryptography==39.0.0
+defusedxml==0.7.1
+diff-match-patch==20200713
+Django==3.2
+django-cors-headers==3.13.0
+django-import-export==3.0.2
+django-mail-queue==3.2.5
+django-storages==1.13.2
+django-versatileimagefield==2.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+Pillow==9.4.0
+psycopg2-binary==2.9.5
+python-decouple==3.6
+python-magic==0.4.27
+
